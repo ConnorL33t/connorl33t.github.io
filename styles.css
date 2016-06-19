@@ -1,0 +1,18 @@
+
+
+body {
+    padding-top: 50px; }
+    
+.landing-page {
+    height: 400px;
+    background: url('https://xtreme-a.akamaihd.net/cdn/farfuture/mXMA5z142-Wp30FucEZUQyeEGtDGmdrbqjaWG5GMRT8/mtime:1445833295/sites/default/files/styles/normal_hero/public/hero/70dpi-EvoSwitch-43.jpg?itok=dpLuXmt5') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.img-center {
+    margin: 0 auto;
+}
